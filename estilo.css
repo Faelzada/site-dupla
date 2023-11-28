@@ -1,1 +1,14 @@
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
 
+.titulo-principal {
+    padding-left: 50px;
+}
+	
+nav {
+	position: absolute;
+	top: 140px;
+	right: 0;
+}
