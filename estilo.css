@@ -12,3 +12,10 @@ nav {
 	top: 140px;
 	right: 0;
 }
+.principal {
+    background: #CCCCCC;
+    padding: 35px;
+}
+.titulo-centralizado {
+	text-align: center;
+}
